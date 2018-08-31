@@ -1,2 +1,3 @@
-# Victoria-Balkinized
-A mod in development for Victoria 2
+# Victoria-Balkanized
+Welcome to Victoria 2 Balkanized!
+This a mod currenty in development for Victoria 2.
